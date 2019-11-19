@@ -1,4 +1,4 @@
 empId,empName,address[0].streetAddress1,address[0].streetAddress2,address[0].city,address[0].postalCode,address[0].country,address[0].addressType,address[1].streetAddress1,address[1].streetAddress2,address[1].city,address[1].postalCode,address[1].country,address[1].addressType,lastEducation.courseName,lastEducation.completionYear
 T001,Test Employee 1,Street 1,line 1,London,12345,UK,Home,Office Street 1,line 1,London,4444,UK,Office,M.Tech,2014
-T002,Test Employee 2,Street 2,line 2,London,12345,UK,Home/Office,,,,,,,B.Tech,2012
+*,Test Employee 2,Street 2,line 2,London,12345,UK,Home/Office,,,,,,,B.Tech,2012
 T003,Test Employee 3,Street 3,line 3,London,12345,UK,Office,,,,,,,PhD,2018

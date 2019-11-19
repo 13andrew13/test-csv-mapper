@@ -14,6 +14,7 @@ public class CSVJsonParser {
         table.getValues().forEach(valueList -> {
                     JsonEntry parseEntry = parseCsvRow(table.getHeader(), valueList);
                     entries.add(parseEntry);
+
                 }
         );
         return new JsonArray(entries);
